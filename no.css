@@ -1,0 +1,22 @@
+body,html {
+	display: flex;
+	margin: auto 0;
+	background: url("https://media.giphy.com/media/aNFT7eG2rIKK715uLk/giphy.gif?cid=790b7611sngjm7k3ueprmue2g516w5bb0c7jqooscet718nx&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+	background-size: cover;
+}
+
+h1 {
+	font-size: 25px;
+	font-family: 'Loved by the King', cursive;
+}
+
+h2 {
+	font-size: 25px;
+	font-family: 'Loved by the King', cursive;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+}
+
